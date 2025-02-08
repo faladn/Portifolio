@@ -1,2 +1,2 @@
-# portif-lio
+# portifólio
 Meus projetos pessoais.
